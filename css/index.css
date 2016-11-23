@@ -1,0 +1,74 @@
+html,body{
+	height: 100%;
+	
+}
+
+#intro{
+	height: 100%;
+	background: url('http://i.imgur.com/TwFTOpS.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+}
+.intro_text{
+	color: white;
+	font-family: 'Delius Unicase', cursive;
+	position: relative;
+	top: 30%;
+	font-size: 4vw;
+}
+
+.intro_text_book{
+	color: black;
+	font-family: 'Delius Unicase', cursive;
+	position: relative;
+	top: 30%;
+	font-size: 4vw;
+}
+.intro_text_second{
+	color: white;
+	font-family: 'Delius Unicase', cursive;
+	position: relative;
+	top: 30%;
+	font-size: 3vw;
+}
+
+.menu{
+	background: transparent !important;
+}
+.item{
+	color:white !important;
+}
+
+#book{
+	min-height: 23%;
+	max-height: 300%;
+}
+#contact{
+	min-height: 100%;
+	max-height: 300%;
+	background: url('http://i.imgur.com/IE3SZ7Q.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.xdd{
+	background: transparent;
+	color: white;
+	border-color: white;
+}
+i{
+	font-size: 5vw !important;
+}
+.blog_button{
+	background: transparent;
+	border-color: black;
+	color: lime;
+	font-size: 1.5vw;
+	position: fixed;
+	bottom: 5%;
+}
+.card-img-top{
+	width: 100%;
+}
